@@ -2,6 +2,10 @@
 -----
 ## Core Hypothesis
 - Can machine learning increase the returns resulting from the implementation of a candlestick charting trading strategy? 
+- Is there a Machine Learning model that can produce positive returns?
+- Can our position be optimized for the best returns possible?
+- Which Machine Learning method would produce the best results?
+- What division of assets provides us with the best overall results?
 -----
 ## Data Utilized
 - Historical Eterium Prices from January 6th 2022 to January 26th
@@ -46,8 +50,10 @@
 
 ## Conclusions and Predictions
 ### Conclusions
-
-### Predictions
------
+- All Machine Learning algorithms performed better than the market
+- Highest Machine Learning return was the LSTM Matching at 3.6%
+- Highest overall return was candlestick signals, with 33.5% returns
 
 ## Moving Forward
+- 300 year old methods can still perform effectively in a highly volatile market of cryptocurrency
+- Adding in Machine Learning models can assit and improve returns even in a downward trending market!
